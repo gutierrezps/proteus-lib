@@ -16,6 +16,7 @@ Feel free to contribute with new symbols and/or packages.
 
 * 1N4148 - diode
 * 24C16 - I2C memory
+* ACS712 module - current sensor
 * Arduino Nano, Arduino Pro Mini
 * AS1582 - voltage regulator
 * AU-Y1007-R - USB plug
@@ -33,6 +34,7 @@ Feel free to contribute with new symbols and/or packages.
 * DIODE-SC
 * DS1337 - low power RTC
 * ESP-01, ESP-12E - ESP8266 modules
+* HLK-PMXXX - Hi-Link AC-DC module (PM01, PM03, PM09, PM012)
 * INDUCTOR
 * JUMPER
 * LED
@@ -41,16 +43,18 @@ Feel free to contribute with new symbols and/or packages.
 * LM016L - 16x2 LCD
 * LM041L - 16x4 LCD
 * MBRA130LT3G - schottky diode
+* MOTOR_3PHASE
 * POT - potentiometer
 * PUSH-BUTTON, PUSH-BUTTON-DP - single and dual pole tactile switches
 * RES - resistor
 * RJ-45 - "Ethernet" connector
-* SW-DPDT, SW-SPDT - switches
+* SW-DPDT, SW-SPDT, SW-SPST - switches
 * TINYRTC - RTC module
 
 ## Footprints/Packages
 
 * 0605, 0805-DIODE
+* ACS712_MODULE
 * ARDUINO_NANO, ARDUINO_PRO_MINI
 * BATT-12MM, BAT-20MM - coin cell batteries
 * BR1/2AAE5P - battery
@@ -66,6 +70,7 @@ Feel free to contribute with new symbols and/or packages.
 * D1-MINI - Wemos D1 Mini module
 * ESP-01, ESP-12E, ESP12E-DIP - ESP8266 modules
 * GRPB031VWTC-RC, GRPB051VWTC-RC, GRPB061VWTC-RC, GRPB071VWTC-RC - SMD pin headers
+* HLK-PMXXX - Hi-Link AC-DC module (PM01, PM03, PM09, PM012)
 * LCD_1602B-E, LCD-1602G, LCD_JHD539 - alphanumeric LCD displays
 * LED_3MM, LED_RGB
 * LLC1 - 4-channel logic level converter module
